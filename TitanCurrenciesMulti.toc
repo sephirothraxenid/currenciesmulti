@@ -10,6 +10,7 @@
 Core\languages\enUS-default.lua
 Core\languages\deDE.lua
 Core\languages\esES.lua
+Core\languages\esMX.lua
 Core\languages\frFR.lua
 Core\languages\koKR.lua
 Core\languages\ptBR.lua
